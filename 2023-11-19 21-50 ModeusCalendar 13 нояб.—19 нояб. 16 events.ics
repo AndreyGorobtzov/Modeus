@@ -1,0 +1,213 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Custis/Modeus//Schedule Calendar App//RU
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:0168ba9c-43e6-49a2-9918-953a99a7d3c3
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231114T153000
+DTEND;TZID=Asia/Yekaterinburg:20231114T170500
+SUMMARY:Философия / Практическое занятие 11 / ФИЛ П-04
+LOCATION:Учебный корпус №7 / 1608 (УК-07)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Касимов Руслан Харисович\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%220168ba9c-43e6-49a2-9918-953a99a7d3c3%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-14T15:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/0168ba9c-43e6-49a2-9918-953a99a7d3c3\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ФИЛ
+END:VEVENT
+BEGIN:VEVENT
+UID:198ff618-f5a3-4dac-8a03-dc4c4a4082c9
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231118T113000
+DTEND;TZID=Asia/Yekaterinburg:20231118T130500
+SUMMARY:Базы данных / Лекционное занятие 12 / Базы данных Л-02
+LOCATION:Учебный корпус №7 / 312 (УК-07)
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Алтунин Евгений Александрович\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22198ff618-f5a3-4dac-8a03-dc4c4a4082c9%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-18T11:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/198ff618-f5a3-4dac-8a03-dc4c4a4082c9\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Базы данных
+END:VEVENT
+BEGIN:VEVENT
+UID:2076111e-74b2-4160-a2ce-7e09ae119c19
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231113T094500
+DTEND;TZID=Asia/Yekaterinburg:20231113T112000
+SUMMARY:Эмоциональный интеллект / Практическое занятие 6 / Эмоциональный интеллект П-04
+LOCATION:Учебный корпус №7 / 1012 (УК-07)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Гаврилюк Наталия Петровна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%222076111e-74b2-4160-a2ce-7e09ae119c19%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-13T09:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/2076111e-74b2-4160-a2ce-7e09ae119c19\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Эмоциональный интеллект
+END:VEVENT
+BEGIN:VEVENT
+UID:46cc696f-0812-4a27-8725-d35eb9d8864d
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231116T134500
+DTEND;TZID=Asia/Yekaterinburg:20231116T152000
+SUMMARY:Иностранный язык в Digital&IT (английский)	 / Практическое занятие 11 / Иностранный язык в Digital&IT (английский)	 П-07
+LOCATION:Учебно-лабораторный корпус №2 / 274 (УЛК-02)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Михайлова Мария Николаевна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2246cc696f-0812-4a27-8725-d35eb9d8864d%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-16T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/46cc696f-0812-4a27-8725-d35eb9d8864d\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Иностранный язык в Digital&IT (английский)	
+END:VEVENT
+BEGIN:VEVENT
+UID:4a45696a-d96f-4541-afac-92b6a80472fa
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231116T113000
+DTEND;TZID=Asia/Yekaterinburg:20231116T130500
+SUMMARY:Физика / Лабораторное занятие 6 / Физика ЛБ-05
+LOCATION:301а-523 (УЛК-03)
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Исакова Наталья Петровна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%224a45696a-d96f-4541-afac-92b6a80472fa%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-16T11:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/4a45696a-d96f-4541-afac-92b6a80472fa\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:Физика
+END:VEVENT
+BEGIN:VEVENT
+UID:68968fbc-33b3-4856-a181-1f6d51a1e581
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231118T080000
+DTEND;TZID=Asia/Yekaterinburg:20231118T093500
+SUMMARY:Базы данных / Лабораторное занятие 12 / Базы данных ЛБ-05
+LOCATION:Учебно-лабораторный корпус №3 / 507 (УЛК-03)
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Алтунин Евгений Александрович\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%2268968fbc-33b3-4856-a181-1f6d51a1e581%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-18T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/68968fbc-33b3-4856-a181-1f6d51a1e581\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:Базы данных
+END:VEVENT
+BEGIN:VEVENT
+UID:6cac3102-9e89-4b14-a745-5b7455ca96ca
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231114T134500
+DTEND;TZID=Asia/Yekaterinburg:20231114T152000
+SUMMARY:Теория вероятностей и математическая статистика / Практическое занятие 11 / Теория вероятностей и математическая статистика П-04
+LOCATION:Учебный корпус №7 / 1510 (УК-07)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Терехова Наталья Владимировна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%226cac3102-9e89-4b14-a745-5b7455ca96ca%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-14T13:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/6cac3102-9e89-4b14-a745-5b7455ca96ca\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Теория вероятностей и математическая статистика
+END:VEVENT
+BEGIN:VEVENT
+UID:af996b61-f382-48a3-9ad1-eb93c80fccff
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231116T094500
+DTEND;TZID=Asia/Yekaterinburg:20231116T112000
+SUMMARY:Общая физическая подготовка / Профессионально-прикладная физическая подготовка / ОФП П-04
+LOCATION:Учебно-лабораторный корпус №3 / Спортивный зал
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Захарова Анастасия Васильевна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22af996b61-f382-48a3-9ad1-eb93c80fccff%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-16T09:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/af996b61-f382-48a3-9ad1-eb93c80fccff\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ОФП
+END:VEVENT
+BEGIN:VEVENT
+UID:b1e11bdd-08a8-437f-83f5-36adb19ec186
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231117T094500
+DTEND;TZID=Asia/Yekaterinburg:20231117T112000
+SUMMARY:Объектно-ориентированное программирование / Лекционное занятие 12 / Объектно – ориентированное программирование Л-02
+LOCATION:Учебный корпус №7 / 312 (УК-07)
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Сидоров Андрей Юрьевич\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22b1e11bdd-08a8-437f-83f5-36adb19ec186%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-17T09:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/b1e11bdd-08a8-437f-83f5-36adb19ec186\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Объектно – ориентированное программирование
+END:VEVENT
+BEGIN:VEVENT
+UID:b72143f7-bfe9-4f69-838c-b73f25ac659e
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231115T153000
+DTEND;TZID=Asia/Yekaterinburg:20231115T170500
+SUMMARY:Перевод деловой корреспонденции и документации с английского языка (Translation of business correspondence and documentation from English language)  / Лабораторное занятие 11 / oBCaDEl ЛБ-02
+LOCATION:Инженерно-лабораторный корпус №8/1 / 456 (ИЛК-08/1)
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Коваль Дарья Сергеевна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22b72143f7-bfe9-4f69-838c-b73f25ac659e%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-15T15:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/b72143f7-bfe9-4f69-838c-b73f25ac659e\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:oBCaDEl
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7a3e22-3f21-4ead-8157-43db60045643
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231117T113000
+DTEND;TZID=Asia/Yekaterinburg:20231117T130500
+SUMMARY:Теория вероятностей и математическая статистика / Лекционное занятие 12 / Теория вероятностей и математическая статистика Л-02
+LOCATION:Учебный корпус №7 / 512 (УК-07)
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Терехова Наталья Владимировна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22bf7a3e22-3f21-4ead-8157-43db60045643%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-17T11:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/bf7a3e22-3f21-4ead-8157-43db60045643\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Теория вероятностей и математическая статистика
+END:VEVENT
+BEGIN:VEVENT
+UID:c436b2d1-258e-4d97-be75-610e60be41ff
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231113T080000
+DTEND;TZID=Asia/Yekaterinburg:20231113T093500
+SUMMARY:Эмоциональный интеллект / Лекционное занятие 6 / Эмоциональный интеллект Л-02
+LOCATION:Учебный корпус №7 / 1012 (УК-07)
+DESCRIPTION:Лекционное занятие\n\nПреподаватель: Гаврилюк Наталия Петровна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22c436b2d1-258e-4d97-be75-610e60be41ff%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-13T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/c436b2d1-258e-4d97-be75-610e60be41ff\n
+CATEGORIES:Лекционное занятие
+CATEGORIES:Эмоциональный интеллект
+END:VEVENT
+BEGIN:VEVENT
+UID:cdb3318a-ef43-4098-b5d6-47b3d3db8cc7
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231117T080000
+DTEND;TZID=Asia/Yekaterinburg:20231117T093500
+SUMMARY:Объектно-ориентированное программирование / Лабораторное занятие 11 / Объектно – ориентированное программирование ЛБ-09
+LOCATION:Учебный корпус №7 / 803 (УК-07)
+DESCRIPTION:Лабораторное занятие\n\nПреподаватель: Сидоров Андрей Юрьевич\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cdb3318a-ef43-4098-b5d6-47b3d3db8cc7%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-17T08:00:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/cdb3318a-ef43-4098-b5d6-47b3d3db8cc7\n
+CATEGORIES:Лабораторное занятие
+CATEGORIES:Объектно – ориентированное программирование
+END:VEVENT
+BEGIN:VEVENT
+UID:ce862e82-b54b-4f08-8a4f-7420fe1422de
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231113T113000
+DTEND;TZID=Asia/Yekaterinburg:20231113T130500
+SUMMARY:Физика / Практическое занятие 6 / Физика П-02
+LOCATION:Учебно-лабораторный корпус №3 / 332 (УЛК-03)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Исакова Наталья Петровна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22ce862e82-b54b-4f08-8a4f-7420fe1422de%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-13T11:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/ce862e82-b54b-4f08-8a4f-7420fe1422de\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Физика
+END:VEVENT
+BEGIN:VEVENT
+UID:cf938348-7fc7-4e91-954c-736ddf1f1ec3
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231118T094500
+DTEND;TZID=Asia/Yekaterinburg:20231118T112000
+SUMMARY:Проектная деятельность / Практическое занятие 12 / Проектная деятельность П-04
+LOCATION:Учебный корпус №7 / 229 (УК-07)
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Сидорова Анастасия Эдуардовна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22cf938348-7fc7-4e91-954c-736ddf1f1ec3%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-18T09:45:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/cf938348-7fc7-4e91-954c-736ddf1f1ec3\n
+CATEGORIES:Практическое занятие
+CATEGORIES:Проектная деятельность
+END:VEVENT
+BEGIN:VEVENT
+UID:e14a4153-8a50-4b48-b3c2-50bc64bc27c4
+SEQUENCE:1
+ORGANIZER;CN=Modeus:MAILTO:noreply@modeus.org
+DTSTAMP;TZID=Asia/Yekaterinburg:20231119T165031
+DTSTART;TZID=Asia/Yekaterinburg:20231114T113000
+DTEND;TZID=Asia/Yekaterinburg:20231114T130500
+SUMMARY:Общая физическая подготовка / Профессионально-прикладная физическая подготовка / ОФП П-04
+LOCATION:Учебно-лабораторный корпус №3 / Спортивный зал
+DESCRIPTION:Практическое занятие\n\nПреподаватель: Захарова Анастасия Васильевна\n\nПосмотреть в Моем расписании: https://tyuiu.modeus.org/schedule-calendar/my?selectedEvent=%7B%22eventId%22:%22e14a4153-8a50-4b48-b3c2-50bc64bc27c4%22%7D&calendar=%7B%22view%22:%22agendaWeek%22\,%22date%22:%222023-11-14T11:30:00.000Z%22%7D\nПосмотреть в мобильной версии: https://m-tyuiu.modeus.org/#/event/e14a4153-8a50-4b48-b3c2-50bc64bc27c4\n
+CATEGORIES:Практическое занятие
+CATEGORIES:ОФП
+END:VEVENT
+END:VCALENDAR
