@@ -1,0 +1,1 @@
+C:\Users\Andrey\Desktop\Modeus\venv\Scripts\python.exe C:\Users\Andrey\Desktop\Modeus\main.py
