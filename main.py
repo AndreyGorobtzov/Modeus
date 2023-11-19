@@ -5,13 +5,23 @@ from selenium.webdriver.support import expected_conditions as EC
 import datetime
 import pytz
 
-WAIT_TIME = 1
-DATE = str(datetime.datetime.now(pytz.timezone('Asia/Yekaterinburg')) + datetime.timedelta(days=7))[:10]
-download_dir = r'C:\Users\Andrey\Desktop\Modeus\files'
+# Параметр времени ожидания. Если есть ошибки, можно с ним поиграться
+WAIT_TIME = 10
+# Получение непосредственной даты следущей недели. Если есть ошибки на стадии закачки - может помочь
+# DATE = str(datetime.datetime.now(pytz.timezone('Asia/Yekaterinburg')) + datetime.timedelta(days=7))[:10]
+
+# Папка для временного хранения расписания, чтобы скачать его и привести в надлежащее состояние
+download_dir =  r'C:\DIR\TO\DIRECTORY\DOWNLOAD\FILE'
+
+# Папка, где будет храниться файл календаря и его название
+ics_dir = r'C:\DIR\TO\CALENDAR\FILE\FILE_NAME.ics'
+# Данные для входа в Модеус
+login_tyuiu = 'YOUR_LOGIN@std.tyuiu.ru'
+password_tyuiu = 'YOUR_PASSWORD'
 
 options = webdriver.ChromeOptions()
 options.add_argument("--headless=new")
-
+# Изменение опций загрузки
 options.add_experimental_option(
     'prefs',
     {
@@ -22,9 +32,7 @@ options.add_experimental_option(
     }
 )
 
-login_tyuiu = 'gorobtsovaa@std.tyuiu.ru'
-password_tyuiu = 'AndreyAG2142!'
-
+# Непосредственный вход в Модеус
 driver = webdriver.Chrome(options=options)
 driver.get('https://tyuiu.modeus.org/')
 
@@ -32,20 +40,21 @@ driver.get('https://tyuiu.modeus.org/')
 driver.implicitly_wait(WAIT_TIME)
 driver.find_elements(By.CLASS_NAME, 'idp')[1].click()
 
-# Страница ввода данных
+# Страница авторизации
 driver.implicitly_wait(WAIT_TIME)
 driver.find_element(By.ID, 'userNameInput').send_keys(login_tyuiu)
 driver.find_element(By.ID, 'passwordInput').send_keys(password_tyuiu)
 driver.find_element(By.ID, 'submitButton').click()
 
 # Скачивание календаря на след неделю
-driver.get('https://tyuiu.modeus.org'
-           '/schedule-calendar/my?timeZone=%22Asia%2FTyumen%22&calendar=%7B%22view%22:%22agendaWeek%22,'
-           '%22date%22:%22'
-           f'{DATE}'
-           'T13:23:12%22%7D')
+# Прямой переход на страницу с расписание. Если есть ошибки на стадии закачки - может помочь.
+# driver.get('https://tyuiu.modeus.org'
+#            '/schedule-calendar/my?timeZone=%22Asia%2FTyumen%22&calendar=%7B%22view%22:%22agendaWeek%22,'
+#            '%22date%22:%22'
+#            f'{DATE}'
+#            'T13:23:12%22%7D')
 
-WebDriverWait(driver, 10).until(
+WebDriverWait(driver, WAIT_TIME).until(
         EC.element_to_be_clickable((
                 By.CSS_SELECTOR,
                 '.icon-icalendar'
@@ -87,7 +96,7 @@ for i in range(len(week)):
         week[i] = 'LOCATION:' + week[i].split(' / ')[-1]
 
 week = '\n'.join(week)
-if os.path.exists(r'C:\Users\Andrey\Desktop\FILE_MODEUS\next_week.ics'):
-    os.remove(r'C:\Users\Andrey\Desktop\FILE_MODEUS\next_week.ics')
-with open(r'C:\Users\Andrey\Desktop\FILE_MODEUS\next_week.ics', 'w', encoding="utf-8") as ics:
+if os.path.exists(ics_dir):
+    os.remove(ics_dir)
+with open(ics_dir, 'w', encoding="utf-8") as ics:
     ics.write(week)
