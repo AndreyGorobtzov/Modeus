@@ -10,11 +10,12 @@ WAIT_TIME = 10
 # Получение непосредственной даты следущей недели. Если есть ошибки на стадии закачки - может помочь
 # DATE = str(datetime.datetime.now(pytz.timezone('Asia/Yekaterinburg')) + datetime.timedelta(days=7))[:10]
 
+# Обе папки нужно предварительно создать
 # Папка для временного хранения расписания, чтобы скачать его и привести в надлежащее состояние
 download_dir =  r'C:\DIR\TO\DIRECTORY\DOWNLOAD\FILE'
-
 # Папка, где будет храниться файл календаря и его название
 ics_dir = r'C:\DIR\TO\CALENDAR\FILE\FILE_NAME.ics'
+
 # Данные для входа в Модеус
 login_tyuiu = 'YOUR_LOGIN@std.tyuiu.ru'
 password_tyuiu = 'YOUR_PASSWORD'
